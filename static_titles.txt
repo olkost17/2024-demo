@@ -1,0 +1,190 @@
+"Materials"
+(Ideally this should link to a FLOC or EQUIP User Status ‘driver’)
+- A higher incidence of process and operational HSE incidents
+- Less efficient use of resources and therefore higher costs
+- Longer than necessary downtime and lost production capacity
+- MAT (Maintenance Activity Types)
+- Priorities
+- Work Order Types
+.
+...
+:
+A&T / SIS testing
+ASSET RELIABILITY
+Activity Type:
+Activity:
+Actual Cost By Activity Type (Routine Work Only)
+Additional Clarification:
+Air / oil filter changes
+All ITPM (Inspection, Test or Preventive Maintenance) that is required for reliability or quality reasons, not to keep them legal and compliant with Syngenta global and local requirements.
+All of this work should be directly linked with a Z30 routine
+All of this work should be directly linked with a Z31 routine
+All of this work should be directly linked with a Z32 routine
+All reactive work that is not identified by Activity Type Z30/Z31/Z32 and is not HSE related (this would be Activity Type Z10 work) such as:
+All reliability improvement work should be reduce or eliminate the number of P1s if effective
+All remaining pages
+All this work would be assessed and approved by the Management of Change or Project Process
+Analyser calibrations
+Analysis of Reactive Work Orders (PM01, Priority 1)
+Any replacements which are not 'like for like' would be a Z20
+Any site specific task (compliance-related or not) that has been identified as needed to prevent immediate danger to life and health (IDLH) risk to site personnel or the surrounding community.
+Asset Category:
+Asset Class:
+Asset Object:
+Blockage clearance
+Bundle / dye repairs identified by routine inspection
+CHMO SITE  CURRENT YEAR FINANCIALS
+CHMO SITE  PREVIOUS YEAR FINANCIALS
+CHMO SITE FINANCIALS
+CHMO SITE FINANCIALS (Documents)
+CHMO SITE FINANCIALS PM01/PM02
+CHMO Site Current Year Financials
+CHMO Site Financials
+CURRENT YEAR
+Can be planned and scheduled for a future week based upon it relative priority with other work
+Category:
+Change the design or materials of construction to improve reliability / availability
+Changes to the building / office layout
+Changing process filter elements
+Civil Inspections (asbestos, critical structures, drains, bunds,...)
+Condition Monitoring Routines (Vibration, Ultrasonics, Oil Analysis, Thermography)
+Cost Hub
+Cost by
+Cost center:
+Criticality:
+Current Year Outage Management
+DATA QUALITY & TRENDS
+Damaged light fitting in a hazardous area
+Data Category:
+Defective safety shower, fire door, environmental analyser,…
+Doc Type:
+Document type
+End Users should not raise these
+Example(s):
+Examples:
+FLOC Pareto Analysis
+FLOC:
+Finance Accounting
+Flexible hose repair or replacement due to routine inspection / test
+Follow on work identified by Activity Type Z30 work such as:
+Follow on work identified by Activity Type Z31 work such as:
+Follow on work identified by Activity Type Z32 work such as:
+Here
+INFO
+In this report, each page displays information based on specific order types.
+Includes non-invasive inspections for symptoms that are easily detectable by the human sensory system such as audible noise, the asset being hot to the touch, fluid leaks and excessive vibration.
+Ineffective drafting on Local Exhaust Ventilation
+Inspection and testing of Local Exhaust Ventilation (LEV)
+Inspection of Lifting beam and equipment
+Inspection of electrical and mechanical equipment in a hazardous area
+Inspections, Tests and Preventive Maintenance (ITPM) required to keep the assets legal and compliant with Syngenta global and local mandatory requirements
+Install new valve or instrument, or replace an existing obsolete one
+Involves trending and analysis
+LABOR
+Labor Cost by Activity (%)
+Leaking pipe or valve releasing hazardous materials
+Level 2: By Asset Class Type
+Level 3: By Asset Object Type
+Loadcell calibrations for operation reasons
+Loose handrail or floor grating
+Lubrication Rounds
+MAINTENANCE STRATEGY
+MATERIAL
+Maintenance
+Manual valve stuck
+Manually generated Work Orders for all work except projects
+Manually generated Work Orders for project work.
+Monthey (CHMO)
+Motor will not start
+NOT…
+Not minor piecemeal repairs or minor piecemeal 'like for like' replacements, use Z10, Z11, Z12, Z13, or Z14 for these.
+OUTAGE MANAGEMENT
+Operator Rounds
+Order Type:
+P1 work is ‘bad’ because work that isn’t formally planned and scheduled leads to:
+P1 work is ‘bad’, and indicates a failure of the existing maintenance strategy for affected item. Either the criticality of the equipment has been misunderstood and it has left to run to failure, the preventive / predictive strategy isn’t working or is not being applied, or someone is ‘crying wolf’ (and it isn’t really a P1 job).
+P1: Not Scheduled
+P2: Scheduled
+P3: Next Major Outage
+PERFORMANCE
+PERFORMANCE - L2
+PERFORMANCE - L3
+PM01 – Maintenance Work Order
+PM01/PM02
+PM01/PM02 Cost by
+PM02 – Plans and Schedules Work Order
+PM05 – Project Work Order
+Painting programme
+Painting, insulation, labelling resulting from a routine inspection
+Planned test and overhaul of a pressure relief valve
+Plant Section
+Plant Section:
+Preventive Maintenance on ScfE
+Previous Year Site Financial
+Proactive Repair from HSE PM (Z30)
+Proactive changes / refurbishment / replacement of anything HSE related would be Activity Type Z20/Z40 (such as the installation of a new Fire and Gas Alarm System, or replacement of an obsolete Emergency Lighting System)
+Process fridge / air-condition unit routines
+Process fridge / air-condition unit routines (if required to satisfy the F-Gas Regulations)
+Product change over support
+Pump alignment or replacement following routine vibration Condition Monitoring
+R&M
+ROUTINE WORK MANAGEMENT
+Reactive repair required of an HSE related defect:
+Refurbishment of materials (spare parts) i.e. overhaul of motor, pump, gearbox, mechanical seal,…
+Refurbishment or replacement (like for like) of ageing piping, vessels, structural
+Refurbishment or replacement (like for like) of ageing piping, vessels, structural steelwork
+Regular turning of rotating equipment (such as pumps and motors) to avoid bearing / seal deterioration
+Repair instrument that is not reading correctly
+Repair of leak identified by Operator Rounds
+Repairs that emerge as part of preventive (inspections, tests, maintenance plans) or predictive (operator rounds, lubrication rounds, condition monitoring) would be Activity Type Z12/Z13 /Z14
+Replacement of the analyser equipment as it is nearing the end of its life resulting from a routine inspection
+Replacement of the safety glass as they can no longer be cleaned resulting from a routine inspection
+Replacement of worn mechanical parts following routine Lubrication Checks
+Requires the use of some sort of specialized technology beyond human senses
+Revision:
+SAP Priority:
+SPARE PARTS ANALYSIS - LEVEL 1
+SUPPLIER AND PROCUREMENT
+Safety valve replacement resulting from routine test / inspection
+Should only be used for Work Orders automatically generated by the system to initiate preventive and predictive work
+Site Financial Metrics Documents
+Spare Parts Analysis - Level 1
+Steam trap replacement following routine ultrasonic Condition Monitoring
+Supplier and Procurement
+TOP 10 WORK ORDERS & FUNCTIONAL LOCATION PARETO ANALYSIS
+TOP 10 Work Orders &
+This work can be any priority i.e. P1, P2, or P3
+Toolbox talk / Team meeting
+Urgent / Emergency work that cannot wait for proper planning and scheduling and must break into this week’s schedule, because they are associated with an urgent HSE problem or are production limiting
+Vendor Name:
+Vessel inspection
+Vessel or insulation or labelling repairs resulting from a routine inspection
+Work that does not need to break into the current work schedule
+Work that needs to be carried out at the next major outage i.e. an annual building or site outage (if the site has these)
+Working on- or off-line training
+Writing procedures
+Year:
+Z10 - Reactive HSE Repair
+Z11 - Reactive Non-HSE Repair
+Z12 -
+Z12 - Proactive Repair from HSE PM (Z30)
+Z13 - Proactive Repair from PdM (Z32)
+Z14 - Proactive Repair from Non-HSE PM (Z31)
+Z20 - Proactive Mods / Improvements
+Z30 - Preventive (PM) HSE
+Z31 - Preventive (PM) Non-HSE
+Z32 - Predictive (PdM)
+Z40 - Proactive Refurbish / Replace
+Z50 - Production Support Activities
+Z60 - Training / Meetings / Admin
+all data categories
+and
+approximately 88% of the total dataset
+data, which represents
+display only
+include
+new Fire and Gas Alarm System, or replacement of an obsolete Emergency Lighting System)
+pages include only "Others" data category.
+refers to the combined costs of Stock (Storeroom) and Non-stock (Material) expenses
+steelwork…
+…

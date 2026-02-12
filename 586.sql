@@ -98,7 +98,8 @@ functional_location_link AS (
         WHEN 'A' THEN 'High Criticality(A)'
         WHEN 'B' THEN 'Medium Criticality(B)'
         WHEN 'C' THEN 'Low Criticality(C)'
-        ELSE 'Criticality Not Applicable(Z)'
+        WHEN 'Z' THEN 'Criticality Not Applicable (Z)'
+        ELSE ''
     END AS ABC_indicator_description,
         iloa."MSGRP" AS sort_field,
         iloa."BEBER" AS plant_section,
